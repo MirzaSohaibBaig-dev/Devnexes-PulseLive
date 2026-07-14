@@ -1,15 +1,6 @@
-# Week 1 Project Planning
+# Devnexes PulseLive
 
-## Objectives
-- [ ] Define project scope and key milestones.
-- [ ] Set up the initial development environment and folder structure.
-- [ ] Establish communication channels and workflow guidelines.
+## Week 1 - Project Planning
+## 1. Project Overview
 
-## Tasks & Assignments
-- **Task 1**: Repository initialization & folder setup.
-- **Task 2**: Requirements gathering and tech stack alignment.
-
-## Timeline & Milestones
-- **Day 1-2**: Initialization and planning.
-- **Day 3-5**: Scope definition & feedback collection.
-- **End of Week**: Baseline approval.
+Devnexes PulseLive is a real-time polling and audience interaction web application. A host can create live polling sessions and participants can join using a unique session code. Participants submit their votes in real time, and the results are instantly displayed without refreshing the page. The application is designed for classrooms, seminars, workshops, meetings, and live events where quick audience feedback is required.
