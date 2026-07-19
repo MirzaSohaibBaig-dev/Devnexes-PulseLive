@@ -1,13 +1,12 @@
-<p align="center">
-  <img src="./assets/banner.png" alt="PulseLive Banner" width="100%">
-</p>
+![PulseLive Banner](assets/banner.png)
+
 
 # 🚀 Devnexes PulseLive
 
 > A Real-Time Polling & Audience Interaction Web Application built as part of the **Devnexes Internship Program**.
 
 PulseLive is a modern web application that enables hosts to create live polling sessions while allowing participants to join instantly using a unique session code. Votes are synchronized in real time, providing an interactive experience for classrooms, webinars, workshops, conferences, and live events.
-
+    
 ---
 
 ## 📖 Project Overview
