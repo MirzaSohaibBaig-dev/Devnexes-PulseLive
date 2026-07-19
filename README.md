@@ -1,4 +1,6 @@
-<p align="center"><img src="./assets/banner.png" alt="PulseLive Banner" width="100%"></p>
+<p align="center">
+  <img src="./assets/banner.png" alt="PulseLive Banner" width="100%">
+</p>
 
 # 🚀 Devnexes PulseLive
 
